@@ -1,0 +1,9 @@
+The maximum tape length, as of now, is defined as a pre-processor macro.
+	When it changes the data-type of run_machine:ct, run_machine:i may change
+	
+The tape symbols are numbers as of now :(
+
+As of now it is considered that the number of tape symbols would determine the tape symbols.
+	i.e, if no. is 3 tape symbols are 0, 1 and 2.
+	
+the blank symbol will be taken as the next unused input symbol
